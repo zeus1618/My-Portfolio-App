@@ -3,4 +3,12 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+
+    <!--Udacity colors-->
+    <color name="ud_orange">#F08C35</color>
+    <color name="ud_pink">#D81B60</color>
+
+
+    <!--Basic Colors-->
+    <color name="black">#000000</color>
 </resources>
